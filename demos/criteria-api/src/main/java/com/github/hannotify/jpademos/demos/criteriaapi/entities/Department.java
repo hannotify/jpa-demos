@@ -1,4 +1,4 @@
-package com.github.hannotify.jpademos.demos.jpql.entities;
+package com.github.hannotify.jpademos.demos.criteriaapi.entities;
 
 import java.util.List;
 import javax.persistence.Entity;

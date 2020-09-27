@@ -1,8 +1,6 @@
-package com.github.hannotify.jpademos.demos.jpql;
+package com.github.hannotify.jpademos.demos.criteriaapi;
 
-import com.github.hannotify.jpademos.demos.jpql.entities.Employee;
-import com.github.hannotify.jpademos.demos.jpql.entities.Programmer;
-import java.util.List;
+import com.github.hannotify.jpademos.demos.criteriaapi.entities.Programmer;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;

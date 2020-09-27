@@ -8,5 +8,6 @@
 
     <modules>
         <module>jpql</module>
+        <module>criteria-api</module>
     </modules>
 </project>
