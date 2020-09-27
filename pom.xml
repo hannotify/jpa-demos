@@ -1,25 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.3.1.RELEASE</version>
-        <relativePath/>
-    </parent>
-
     <modelVersion>4.0.0</modelVersion>
+
     <groupId>com.github.hannotify</groupId>
     <artifactId>jpa-demos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
+
     <modules>
         <module>demos</module>
         <module>assignments</module>
     </modules>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-    </dependencies>
 </project>
